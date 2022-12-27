@@ -6,7 +6,7 @@
     <a href="https://discord.io/fscofficial"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="Discord server"/></a>
     <a href="https://www.youtube.com/hashtag/friendscrafthorrorsmp"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="FSC SMP" />
     <a href="https://www.youtube.com/watch?v=UsnUbgpanw0"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Minecraft&color=62B47A&logo=Minecraft&logoColor=FFFFFF&label=" alt="aaaa" /></a>
-    <a href="https://www.debian.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=" alt="dddd"></a>
+    <a href="https://www.centos.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=262577&logo=CentOS&logoColor=FFFFFF&label=" alt="dddd"></a>
         <br>
 <a href="https://www.youtube.com/hashtag/friendscrafthorrorsmp"><img src="https://img.shields.io/appveyor/build/gruntjs/grunt?label=INFO%20SERVER&style=for-the-badge" alt="Info"/></a>
 <a href="https://www.youtube.com/hashtag/friendscrafthorrorsmp"><img src="https://img.shields.io/nodeping/uptime/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?label=LAST%20UPDATE&style=for-the-badge" alt="Update"/></a> 
